@@ -1,0 +1,6 @@
+# Edite este arquivo e coloque uma busca por linha.
+# Exemplos:
+lojas em Campinas SP
+lojas em Sorocaba SP
+lojas em Osasco SP
+lojas em Santo Andre SP

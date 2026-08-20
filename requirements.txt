@@ -1,0 +1,2 @@
+# O bot usa apenas bibliotecas padrao do Python.
+# Este arquivo existe para deixar claro que nao ha instalacao obrigatoria.
