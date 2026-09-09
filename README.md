@@ -218,16 +218,6 @@ Recomendacoes:
 
 Para envio totalmente automatico, o caminho correto e a API oficial do WhatsApp Business/Cloud API, com contatos que aceitaram receber mensagens e templates aprovados quando necessario.
 
-## Antes de Publicar no GitHub
-
-Confira se estes arquivos nao serao enviados:
-
-- `.env`
-- `leads.csv`
-- qualquer `*.csv` com contatos reais
-- `__pycache__/`
-
-O `.gitignore` deste projeto ja bloqueia esses arquivos, mas confira antes de publicar.
 
 ## Fontes
 
